@@ -12,6 +12,12 @@ public class Manager {
 	
 	public void DisplayTopScoringMatches(){
 		//TODO: IMPLEMENT THIS
+		int maxgoals =0;
+		Match top;
+		
+		for(Match m : leagueMatches){
+			
+		}
 	}
 	public void DisplayTop5Players(){
 		//TODO: IMPLEMENT THIS
